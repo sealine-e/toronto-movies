@@ -7,5 +7,5 @@ This project explores the relationship between IMDb movie ratings and runtime du
 - Showcases if number of award wins also impact IMDB rating and runtime.
 
 **Built With**
-Tools: R, RStudio, Tableau
-Libraries: dplyr
+- **Tools**: R, RStudio, Tableau
+- Libraries: dplyr
