@@ -8,4 +8,4 @@ This project explores the relationship between IMDb movie ratings and runtime du
 
 **Built With**
 - **Tools**: R, RStudio, Tableau
-- Libraries: dplyr
+- **Libraries**: dplyr
